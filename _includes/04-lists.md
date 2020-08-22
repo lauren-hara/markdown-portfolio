@@ -1,2 +1,2 @@
-[ ] Learn about dragons
-[ ] Become a dragon
+* Learn about dragons
+* Become a dragon
