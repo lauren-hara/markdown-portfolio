@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Dragons are the **most** *interesting* and *dynamic* mythical creatures known to man. Ask me to find out why.
