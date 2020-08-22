@@ -1,1 +1,1 @@
-[About Dragons](https://monster.fandom.com/wiki/Dragon)
+[About Dragons](https://monster.fandom.com/)
